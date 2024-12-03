@@ -84,4 +84,4 @@ if UPSTREAM_REPO is not None:
         log_info('Successfully updated with latest commits !!')
     else:
         log_error('Something went Wrong ! Retry or Ask Support !')
-    log_info(f'UPSTREAM_REPO: {UPSTREAM_REPO} | UPSTREAM_BRANCH: {UPSTREAM_BRANCH}')
+    log_info(f'UPSTREAM_REPO: Private | UPSTREAM_BRANCH: {UPSTREAM_BRANCH}')
